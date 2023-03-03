@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/dnmoney/static/js/main.88b27e01.js",
+    "static/media/logo.svg": "/dnmoney/static/media/logo.feef76739446479095a5ead411ac71d2.svg",
+    "static/media/total.svg": "/dnmoney/static/media/total.efc003fec6ccd094143486647c83e038.svg",
+    "index.html": "/dnmoney/index.html",
+    "static/media/outcome.svg": "/dnmoney/static/media/outcome.6eb96d3079777422e5bd5deaa688a46e.svg",
+    "static/media/income.svg": "/dnmoney/static/media/income.d58effe2f7ca5d17f64c8350e5fa2fe2.svg",
+    "static/media/close.svg": "/dnmoney/static/media/close.f62862c6571367515ce17c7b4e77a1fc.svg",
+    "main.88b27e01.js.map": "/dnmoney/static/js/main.88b27e01.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.88b27e01.js"
+  ]
+}
